@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/agronholm/release-notes/commit/d1772d33a8f22913df34832b21ae64dd95e73a0e",
       "git:hexsha": "d1772d33a8f22913df34832b21ae64dd95e73a0e",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/agronholm/release-notes/commit/8fa3fd6846a5d9a4565d3994971d8d81d6f7245f",
